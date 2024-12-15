@@ -2,7 +2,6 @@ import React from "react";
  import { CiSearch } from "react-icons/ci";
  import { PiShoppingCartThin } from "react-icons/pi";
  import { FaRegUserCircle } from "react-icons/fa";
-import Image from 'next/image';
  const Navbar = () => {
    return (
      <header className='w-[1440px] h-[132px] bg-[#FFFFFF] '>
